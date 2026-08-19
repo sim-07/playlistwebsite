@@ -1,7 +1,7 @@
 <script setup>
 import PlaylistCard from './components/Playlist.vue'
 
-const tiktokUrl = 'https://www.tiktok.com/@il_tuo_profilo'
+const tiktokUrl = 'https://www.tiktok.com/@playlist_curator._'
 </script>
 
 <template>
