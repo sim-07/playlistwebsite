@@ -22,6 +22,7 @@ const tiktokUrl = 'https://www.tiktok.com/@il_tuo_profilo'
     <div class="playlist-grid">
       <PlaylistCard url="https://open.spotify.com/playlist/6d8HW1ksDk9z1A926gLgbq?si=eoeOVVcwQU2kSdEdPU0erg" />
       <PlaylistCard url="https://open.spotify.com/playlist/6n9OJktEHa7uyhdsscl3mZ?si=ICetGDtPTQ6qmfe7CJHUjg" />
+      <PlaylistCard url="https://open.spotify.com/playlist/2ysqbdwrsxZQLLLRYlFvAC?si=0V0wA2B-T5OGINtJwkp0Ig" />
     </div>
   </main>
 </template>
