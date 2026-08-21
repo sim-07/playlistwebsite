@@ -86,8 +86,8 @@ body {
 }
 
 .container {
-  width: 90%;
-  max-width: 1000px;
+  width: 95%;
+  max-width: 1600px;
   margin: 0 auto;
   padding: 40px 0;
 }
@@ -96,6 +96,7 @@ body {
   display: flex;
   flex-direction: row;
   gap: 30px;
+  width: 100%;
 }
 
 @media (max-width: 768px) {

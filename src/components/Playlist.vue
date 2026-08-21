@@ -14,8 +14,7 @@ const getEmbedUrl = (url) => {
     <iframe
       :src="getEmbedUrl(url)"
       width="100%"
-      height="352"
-      frameborder="0"
+      height="500" frameborder="0"
       allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
       loading="lazy"
       style="border-radius: 12px;"
@@ -30,9 +29,10 @@ const getEmbedUrl = (url) => {
 <style scoped>
 .card {
   background-color: #1e1e1e;
-  padding: 20px;
+  padding: 24px;
   border-radius: 16px;
   flex: 1;
+  min-width: 0;
   width: 100%;
   box-sizing: border-box;
   text-align: center;
