@@ -94,10 +94,12 @@ body {
 }
 
 .playlist-grid {
-  display: flex;
-  flex-direction: row;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
   gap: 30px;
   width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
 }
 
 @media (max-width: 768px) {
@@ -106,9 +108,8 @@ body {
   }
 
   .playlist-grid {
-    flex-direction: column;
+    grid-template-columns: 1fr;
     max-width: 500px;
-    margin: 0 auto;
   }
 }
 </style>
