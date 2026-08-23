@@ -21,11 +21,11 @@ const tiktokUrl = 'https://www.tiktok.com/@playlist_curator._'
 
   <main class="container">
     <div class="playlist-grid">
-      <PlaylistCard url="https://open.spotify.com/playlist/2ysqbdwrsxZQLLLRYlFvAC?si=0V0wA2B-T5OGINtJwkp0Ig" />
-      <PlaylistCard url="https://open.spotify.com/playlist/6d8HW1ksDk9z1A926gLgbq?si=eoeOVVcwQU2kSdEdPU0erg" />
-      <PlaylistCard url="https://open.spotify.com/playlist/3hzOnPQeEqHLOD8j6RF6yu?si=tGR0xUJDT2C1tZip0FIBNQ" />
-      <PlaylistCard url="https://open.spotify.com/playlist/3FlLKMOQUIrCPrUrGqa36D?si=7AKnTgj3RbmD1uzyVlFg8w" />
-      <PlaylistCard url="https://open.spotify.com/playlist/6n9OJktEHa7uyhdsscl3mZ?si=ICetGDtPTQ6qmfe7CJHUjg" />
+            <PlaylistCard url="https://open.spotify.com/playlist/6d8HW1ksDk9z1A926gLgbq?si=eoeOVVcwQU2kSdEdPU0erg" /> <!--Postmetal-->
+                  <PlaylistCard url="https://open.spotify.com/playlist/3FlLKMOQUIrCPrUrGqa36D?si=7AKnTgj3RbmD1uzyVlFg8w" /> <!--Deathmetal-->
+      <PlaylistCard url="https://open.spotify.com/playlist/2ysqbdwrsxZQLLLRYlFvAC?si=0V0wA2B-T5OGINtJwkp0Ig" /> <!--Blackgaze-->
+      <PlaylistCard url="https://open.spotify.com/playlist/3hzOnPQeEqHLOD8j6RF6yu?si=tGR0xUJDT2C1tZip0FIBNQ" /> <!--Doommetal-->
+      <PlaylistCard url="https://open.spotify.com/playlist/6n9OJktEHa7uyhdsscl3mZ?si=ICetGDtPTQ6qmfe7CJHUjg" /> <!--Progrock-->
     </div>
   </main>
 </template>
