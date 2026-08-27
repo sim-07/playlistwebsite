@@ -24,6 +24,7 @@ const tiktokUrl = 'https://www.tiktok.com/@playlist_curator._'
       <PlaylistCard url="https://open.spotify.com/playlist/6d8HW1ksDk9z1A926gLgbq?si=eoeOVVcwQU2kSdEdPU0erg" /> <!--Postmetal-->
       <PlaylistCard url="https://open.spotify.com/playlist/3FlLKMOQUIrCPrUrGqa36D?si=7AKnTgj3RbmD1uzyVlFg8w" /> <!--Deathmetal-->
       <PlaylistCard url="https://open.spotify.com/playlist/2ysqbdwrsxZQLLLRYlFvAC?si=0V0wA2B-T5OGINtJwkp0Ig" /> <!--Blackgaze-->
+      <PlaylistCard url="https://open.spotify.com/playlist/6PAcKg3JjcPk1s0jF7hEmW?si=ePhkmrpJSgaWwkBXsBgOpw" /> <!--Blackmetal-->
       <PlaylistCard url="https://open.spotify.com/playlist/3hzOnPQeEqHLOD8j6RF6yu?si=tGR0xUJDT2C1tZip0FIBNQ" /> <!--Doommetal-->
       <PlaylistCard url="https://open.spotify.com/playlist/6n9OJktEHa7uyhdsscl3mZ?si=ICetGDtPTQ6qmfe7CJHUjg" /> <!--Progrock-->
       <PlaylistCard url="https://open.spotify.com/playlist/194IEaknwzeCzynZPIfZnb?si=FLBi4pmRRcmrS31P4f6iYA" /> <!--Darkambient-->
