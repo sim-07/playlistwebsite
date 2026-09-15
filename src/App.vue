@@ -28,6 +28,8 @@ const tiktokUrl = 'https://www.tiktok.com/@playlist_curator._'
       <PlaylistCard url="https://open.spotify.com/playlist/3hzOnPQeEqHLOD8j6RF6yu?si=tGR0xUJDT2C1tZip0FIBNQ" /> <!--Doommetal-->
       <PlaylistCard url="https://open.spotify.com/playlist/6n9OJktEHa7uyhdsscl3mZ?si=ICetGDtPTQ6qmfe7CJHUjg" /> <!--Progrock-->
       <PlaylistCard url="https://open.spotify.com/playlist/194IEaknwzeCzynZPIfZnb?si=FLBi4pmRRcmrS31P4f6iYA" /> <!--Darkambient-->
+      <PlaylistCard url="https://open.spotify.com/playlist/2bU7eM15mEaanVvkxAoqlT?si=GgmGc8kXQTqeyMrBNUayyg" /> <!--Warmetal-->
+
     </div>
   </main>
 </template>
